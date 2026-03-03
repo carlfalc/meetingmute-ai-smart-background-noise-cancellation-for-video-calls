@@ -1,0 +1,2 @@
+# meetingmute-ai-smart-background-noise-cancellation-for-video-calls
+A browser extension and desktop app that uses AI to intelligently cancel background noise during video calls, going beyond basic noise suppression to identify and eliminate specific disruptions like dogs barking, children screaming, construction noise, and keyboard typing while preserving natural voice quality. With remote work now permanent for mi
